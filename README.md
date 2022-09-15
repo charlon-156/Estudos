@@ -10,7 +10,7 @@ Assine seu nome aqui em baixo:
   
   João: João Lucas
   
-  Euni:
+  Euni: Eunice Cristina
   
   Vask: Vaxco da Gama
   
