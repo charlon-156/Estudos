@@ -8,10 +8,10 @@ _Markdown_ é uma **linguagem de marcação** com formato de texto simples. Com 
 
 Assine seu nome aqui em baixo:
   
-  João: João Lucas
+  João:
   
   Euni:
   
-  Vask:
+  Vask: Vaxco da Gama
   
   ### Atividade - faça a clonagem desse repósitório e crie um markdown com teu nome
