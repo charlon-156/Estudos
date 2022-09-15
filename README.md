@@ -8,7 +8,7 @@ _Markdown_ é uma **linguagem de marcação** com formato de texto simples. Com 
 
 Assine seu nome aqui em baixo:
   
-  João:
+  João: João Lucas
   
   Euni:
   
